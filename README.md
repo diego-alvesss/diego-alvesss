@@ -1,35 +1,33 @@
 # Olá 👋, eu sou <Seu Nome>
 
-[![Website Badge](https://img.shields.io/badge/website-Online-brightgreen)](<https://seu-site.com>) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@seuusuario-blue)](<https://linkedin.com/in/seuusuario>) 
-[![Twitter](https://img.shields.io/badge/Twitter-@seuusuario-1DA1F2)](<https://twitter.com/seuusuario>) 
-[![Email](https://img.shields.io/badge/email-seuemail%40exemplo.com-red)](mailto:seuemail@exemplo.com)
+[![Instagram](https://img.shields.io/badge/-@dieginzx-000000?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dieginzx)
 
-> Desenvolvedor(a) / Designer / Engenheiro(a) de dados / Product person — resumo curto: o que você faz e que problema resolve.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Diegoalves-blue)](https://www.linkedin.com/in/diego-alves-302369381/)  
+
+> Desenvolvedor de sistemas junior( Front-end, Back-end, tester, arduino e entre outros).
+
 
 ---
 
 ## 🔭 Sobre mim
-- 📍 Localização: <Cidade, País>
-- 💼 Trabalho atual: <Cargo> @ <Empresa> (opcional)
-- 🎓 Formação: <Curso> — <Instituição>
-- 💬 Falo: <Português (nativo)>, <Inglês (avançado)>, ...
+- 📍 Localização: <Salto, Brasil>
+- 💼 Trabalho atual: <Aluno> @ <Senai>
+- 🎓 Formação: < Analise de Desenvolvimento de Sistemas> — <Senai ìtalo Bologna>
+- 💬 Falo: <Português (nativo)>, <Inglês (básico)>
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** JavaScript, TypeScript, Python, <outras>
-- **Frontend:** React, Next.js, HTML, CSS
-- **Backend:** Node.js, Express, Django, Flask
-- **Banco de dados:** PostgreSQL, MongoDB
-- **DevOps / Infra:** Docker, GitHub Actions, AWS
-- **Outras:** Git, CI/CD, TDD, Agile
-
+- **Linguagens:** JavaScript, Python, Dart, Flutter
+- - **Frontend:** HTML, CSS
+- **Backend:** PhP
+- **Banco de dados:** Mysql
+- 
 ---
 
 ## 🌱 Atualmente aprendendo
-- <Tecnologia / área> (ex.: GraphQL, Rust, ML)
-- <Outra coisa>
+- <Dart, Vue, Testes / Mobile, Testes de Softaware>
 
 ---
 
@@ -43,33 +41,21 @@
 ---
 
 ## 📫 Contato
-- Email: `seuemail@exemplo.com`
-- LinkedIn: https://linkedin.com/in/seuusuario
-- Twitter: https://twitter.com/seuusuario
-- Melhor forma para falar comigo: <ex.: LinkedIn / email / DM no Twitter>
+- Email: `diegoalvesspfc2@gmail.com`
+- Numero: 11 99149-6037
 
 ---
 
 ## 🎯 Objetivos profissionais
-- Contribuir para projetos open-source focados em <área>.
-- Trabalhar com <tech/stack> em soluções que impactem <o quê>.
+-Comunicação em grupo e em trabalhos.
 - Aprimorar habilidades em arquitetura e escalabilidade.
 
 ---
 
 ## ❤️ Interesses
-- Inteligência Artificial, Desenvolvimento Web, Open Source, Design de produtos, Música, Fotografia
-
----
-
-## 📈 GitHub Stats (opcional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<seuusuario>&show_icons=true&theme=radical)
+- Inteligência Artificial, Desenvolvimento Web, Testes de Software, Design de produtos, Música, Esportes
 
 ---
 
 ## 🧾 Licença
 Este perfil README está disponível sob a licença [MIT](./LICENSE) — adapte conforme preferir.
-
----
-
-Se quiser, eu já posso preencher esse README com seus dados reais (nome, bio, tecnologias, links e 3 projetos destacados). Cole aqui as informações que quer incluir e eu gero o README pronto para copiar.
