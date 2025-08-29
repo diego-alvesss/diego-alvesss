@@ -30,15 +30,6 @@
 
 ---
 
-## 💡 Projetos em destaque
-- **[Projeto A](https://github.com/seuusuario/projeto-a)** — Pequena descrição do que faz e stack (ex.: Next.js, Node, PostgreSQL).  
-- **[Projeto B](https://github.com/seuusuario/projeto-b)** — Pequena descrição (ex.: CLI para automatizar X).  
-- **[Projeto C](https://github.com/seuusuario/projeto-c)** — Pequena descrição (ex.: bot, blog, portfólio).
-
-> Para ver mais: visite a seção de repositórios no meu perfil.
-
----
-
 ## 📫 Contato
 - Email: `diegoalvesspfc2@gmail.com`
 - Numero: 11 99149-6037
