@@ -12,7 +12,7 @@
 
 ## 🔭 Sobre mim
 - 📍 Localização: <Salto, Brasil>
-- 💼 Trabalho atual: <Aluno> @ <Senai>
+- 💼 Trabalho atual: Aluno
 - 🎓 Formação: < Analise de Desenvolvimento de Sistemas> — <Senai ìtalo Bologna>
 - 💬 Falo: <Português (nativo)>, <Inglês (básico)>
 
@@ -20,10 +20,9 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Linguagens:** JavaScript, Python, Dart, Flutter
-- - **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS
 - **Backend:** PhP
 - **Banco de dados:** Mysql
-- 
 ---
 
 ## 🌱 Atualmente aprendendo
