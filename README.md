@@ -12,7 +12,7 @@
 
 ## 🔭 Sobre mim
 - 📍 Localização: <Salto, Brasil>
-- 💼 Trabalho atual: Aluno
+- 💼 Trabalho atual: Estudante
 - 🎓 Formação: < Analise de Desenvolvimento de Sistemas> — <Senai ìtalo Bologna>
 - 💬 Falo: <Português (nativo)>, <Inglês (básico)>
 
