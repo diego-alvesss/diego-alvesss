@@ -1,4 +1,4 @@
-# Olá 👋, eu sou <Seu Nome>
+# Olá 👋, eu sou Diego Alves
 
 [![Instagram](https://img.shields.io/badge/-@dieginzx-000000?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dieginzx)
 
